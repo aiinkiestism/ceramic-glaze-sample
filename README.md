@@ -1,4 +1,4 @@
-# ceramic-sample
+# ceramic-glaze-sample
 
 Sample Ceramic Network project with Glaze Suite followed by [docs](https://developers.ceramic.network/tools/glaze/example/).
 
