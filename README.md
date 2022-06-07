@@ -7,3 +7,5 @@ You need to know the basics.
 [https://developers.ceramic.network/learn/welcome/](https://developers.ceramic.network/learn/welcome/)
 
 [https://developers.ceramic.network/build/cli/installation/](https://developers.ceramic.network/build/cli/installation/)
+
+[https://developers.ceramic.network/build/middleware/](https://developers.ceramic.network/build/middleware/)
